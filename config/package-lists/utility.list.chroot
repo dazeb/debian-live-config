@@ -41,6 +41,7 @@ catfish
 #Alt: dupeguru
 #Alt: rdfind
 #Alt: nnn
+#Alt: httpdirfs
 #nautilus-sendto # bullseye only
 #nautilus-wipe # bullseye only
 #fsearch # sid only
